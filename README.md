@@ -7,3 +7,4 @@ Teniendo el cuenta el texto https://moaramore.com/2016/05/14/clasificacion-de-la
 4) Crear una clase principal que permita crear las naves de forma tal este bajo una condición booleana o por medio de una regla estipulada dentro de un switch-case o if-else.
 5) El programa debe tener una ejecución infinita, hasta que el usuario no diga que quiere terminar el programa, este no deberá culminar.
 6) Realice un video de funcionamiento máximo 5 minutos, envié el enlace de YouTube (oculto).
+
